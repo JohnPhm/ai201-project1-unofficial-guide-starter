@@ -48,7 +48,7 @@ Typically, the recommended chunking size for a retrieval-augmented generation (R
 The overlap for this would be around 50-75 characters. This would allow for the model to capture information and context, preventing context from being lost and connecting non-related data together. 
 
 **Reasoning:**
----
+The chunk size and overlap would allow a good amount of information to be chunked together with capture information and context.
 
 ## Retrieval Approach
 
@@ -104,7 +104,7 @@ There are some production tradeoffs with the decisions made. There are potential
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
-
+Source Document (the source links) --> Document Digestion (web scraping) --> Chunking --> Embedding --> Storage --> Retrieval --> Generation
 ---
 
 ## AI Tool Plan
