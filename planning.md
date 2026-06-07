@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Student experiences with California State University's dining options - including dining halls, campus cafes, food trucks, and nearby restaurants - vary widely as official sources may not be able to capture food quality, value, hours of operation, and local hidden gems known specifically by CSUF students.
 
 ---
 
@@ -20,16 +21,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 |Reddit: r/csuf|Subreddit of CSUF students discussing potential food spots|https://www.reddit.com/r/csuf/comments/txtiw6/good_places_to_eat_around_csuf/|
+| 2 |Titan Eats|Menu of Titan Dining Hall (Gastronome)|https://dineoncampus.com/CSUF/whats-on-the-menu/titan-dining-hall/2026-05-13/breakfast|
+| 3 |Yelp|Yelp Top 10 Restaurants near CSUF|https://www.yelp.com/search?cflt=restaurants&find_near=california-state-university-fullerton-fullerton-3|
+| 4 |Associated Students Inc: CSUF|Blog Posting from ASI CSUF|https://asi.fullerton.edu/2026/03/23/must-try-spots-to-catch-the-fullerton-vibe-according-to-csuf-students/|
+| 5 |The Orange County Register|Newspaper Article Ranking Places|https://www.ocregister.com/2015/04/15/10-great-places-to-eat-on-and-off-the-cal-state-fullerton-campus/|
+| 6 |GrubHub|List detailing close-by restaurants|https://www.grubhub.com/delivery/ca-fullerton/california_state_university_fullerton|
+| 7 |Daily Titan|Article for new food places|https://dailytitan.com/news/campus/new-food-businesses-near-csuf-welcome-students/article_efb33e88-1042-11ec-9694-637f953bef4a.html|
+| 8 |Yelp|Yelp Review Page of CSUF's Gastronome|https://www.yelp.com/biz/the-gastronome-fullerton|
+| 9 |Titan Eats|CSUF Titan Dining Hall Info Page|https://dineoncampus.com/CSUF/the-titan-dining-hall|
+| 10 |Fullerton.edu|Pricing for CSUF Dining Plan|https://www.fullerton.edu/Housing/current-students/payment-information.html|
 
 ---
 
