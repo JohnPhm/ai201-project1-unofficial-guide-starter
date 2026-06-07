@@ -42,11 +42,12 @@ Student experiences with California State University's dining options - includin
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+Typically, the recommended chunking size for a retrieval-augmented generation (RAG) is around 512 tokens. This allows for approximately 350-400 words to be captured, allowing the retention of complete ideas but preventing the model from getting distracted by irrelevant information. For the sources that I have chosen, I believe that it is best for the chunk size to be around this size as the sources listed above vary from shorter food reviews to longer structured articles, such as the newspapers.
 
 **Overlap:**
+The overlap for this would be around 50-75 characters. This would allow for the model to capture information and context, preventing context from being lost and connecting non-related data together. 
 
 **Reasoning:**
-
 ---
 
 ## Retrieval Approach
@@ -58,7 +59,7 @@ Student experiences with California State University's dining options - includin
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+The embedding model used for this would be all-MiniLM-L6-v2 as this is the recommended tech stack outlined by CodePath.
 **Top-k:**
 
 **Production tradeoff reflection:**
