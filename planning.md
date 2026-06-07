@@ -60,10 +60,12 @@ The overlap for this would be around 50-75 characters. This would allow for the 
 
 **Embedding model:**
 The embedding model used for this would be all-MiniLM-L6-v2 as this is the recommended tech stack outlined by CodePath.
+
 **Top-k:**
+The top-k for this would be 5. This would allow more text chunks to be fetched in order to answer a user's prompt. 
 
 **Production tradeoff reflection:**
-
+There are some production tradeoffs with the decisions made. There are potential missing context due to smaller chunks in exchange for precise retriveal of specific information. Using all-MiniLM-L6-v2 allows us to reduce costs as it is free and locally hosted but it comes at the cost of accuracy as it could be less accurate than other embedding models. Furthermore, ChromaDB can be locally hosted, allowing us to reduce costs. In this case, there are apparent tradeoffs to using ChromaDB as this doesn't scale beyong ChromaDB's limitations. 
 ---
 
 ## Evaluation Plan
@@ -75,11 +77,11 @@ The embedding model used for this would be all-MiniLM-L6-v2 as this is the recom
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |How much does the CSUF dining plan cost?|Specific dollar amount found on the fullerton.edu pricing page|
+| 2 |According to the ASI CSUF article, what is staple location for cheap sushi in Fullerton?|Roll & Grill in Fullerton, specific business name from that article|
+| 3 |What is served for lunch at the Titan Dining Hall on a specific date?|Specific menu items from dineoncampus.com (TitanEats)|
+| 4 |What food places near CSUF are available on GrubHub?|List that includes the places on GrubHub delivery page|
+| 5 |What do Yelp reviewers say about the Gastronome?|Summary of Yelp reviews, including rating and specific comments|
 
 ---
 
@@ -89,9 +91,9 @@ The embedding model used for this would be all-MiniLM-L6-v2 as this is the recom
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. A possible challenge that could arise would be GrubHub and Yelp having dynamic content, which could make it harder to scrape content from just using requests scrape.
 
-2.
+2. Another possible challenge would be short reviews having low information density as a Yelp review could just have short simple reviews.
 
 ---
 
@@ -116,6 +118,7 @@ The embedding model used for this would be all-MiniLM-L6-v2 as this is the recom
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+I plan on using Claude as it is provided by CodePath. Claude would assist me in setting up the different parts of the technology stack as it can reduce the amount of time spent debugging the setup. This would allow me to have more time writing the code and debugging it with the help of Claude. Furthermore, I can ask Claude to test the decisions I made for the RAG, allowing me to understand which parts I can improve.
 
 **Milestone 3 — Ingestion and chunking:**
 
