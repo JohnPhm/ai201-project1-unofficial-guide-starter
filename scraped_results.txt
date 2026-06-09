@@ -1,0 +1,271 @@
+SCRAPED RESULTS FROM LINKS
+============================================================
+
+LINK 1: https://www.reddit.com/r/csuf/comments/txtiw6/good_places_to_eat_around_csuf/
+Domain : www.reddit.com
+------------------------------------------------------------
+  (Reddit may require login or JavaScript to load comments.)
+
+============================================================
+
+LINK 2: https://dineoncampus.com/CSUF/whats-on-the-menu/titan-dining-hall/2026-05-13/breakfast
+Domain : dineoncampus.com
+------------------------------------------------------------
+  ERROR: HTTP error: 403 Client Error: Forbidden for url: https://dineoncampus.com/CSUF/whats-on-the-menu/titan-dining-hall/2026-05-13/breakfast
+
+============================================================
+
+LINK 3: https://www.yelp.com/search?cflt=restaurants&find_near=california-state-university-fullerton-fullerton-3
+Domain : www.yelp.com
+------------------------------------------------------------
+  ERROR: HTTP error: 403 Client Error: Forbidden for url: https://www.yelp.com/search?cflt=restaurants&find_near=california-state-university-fullerton-fullerton-3
+
+============================================================
+
+LINK 4: https://asi.fullerton.edu/2026/03/23/must-try-spots-to-catch-the-fullerton-vibe-according-to-csuf-students/
+Domain : asi.fullerton.edu
+------------------------------------------------------------
+ARTICLE: Must-Try Spots to Catch the Fullerton Vibe, According to CSUF Students
+
+  1. Roll & Grill
+    Known for its low prices, sushi combination plates and beef bowls, Roll & Grill is THE standout sushi staple for CSUF students looking for more bang for their bucks.
+    With a 4.5-star rating onYelp, this hole-in-the-wall eatery often draws lines out the door during lunch hour, even without any dine-in seating.
+    “Going to Roll & Grill was the hype thing to do my freshman year,” said third-year kinesiology student Sydney Pele. “As college students, we should have cheap options like [Roll & Grill] rather than going elsewhere and spending like $20. I recommend their crunch roll, dragon roll and spicy tuna roll.”
+    In addition to $9 bento combos, fresh sushi rolls under $11 and $3 hand rolls, Roll & Grill is known for its generous portions and fresh food quality.
+    “Let me just say: sometimes the best meals don’t come with a hostess stand, mood lighting, or a 45-minute wait,” said Candace L. onYelp.“If you’re looking for ambiance, this isn’t it. If you’re looking for solid, fresh sushi that hits every time and doesn’t require a production? 10/10. Would absolutely eat in a parking lot again.”
+    Conveniently located just minutes from CSUF, Roll & Grill is a Fullerton favorite for low-cost sushi committed to variety and value.
+
+  2. Chicana Vegana
+    Inspired by Cali-Mexican roots and passion for animal rights, the plant-based women-ownedChicana Veganahas turned a few heads, including those of CSUF students.
+    Boasting a 4.8Yelprating, the restaurant specializes in Mexican-American fusion dishes, ranging from wet burritos and burgers to pozole and tacos.
+    For fifth-year chemistry student Liam Ryals, Chicana Vegana’s commitment to cruelty-free plant-based dishes is what drew him in.
+    “I think that it’s really cool to see [Mexican] cultural influence on plant-based eating, especially since Mexican dishes are meat-heavy,” said Ryals.
+    Ryals recommends the Cali Dreamin’ Burger for its vegan twist on a classic bacon avocado burger. Offering vegan classic Mexican desserts, a spin on Jack in the Box tacos and even hotdogs, Chicana Vegana’s menu has no limits.
+    “I think eating healthy can be intimidating,” said Ryals. “But even if you’re not vegan, you won’t be disappointed in what you get.”
+    Whether looking for a quick downtown escape during the school week or craving an ethically sourced burger, Chicana Vegana is your go-to.
+
+  3. The Classic Cafe
+    With a following of over 16,000 followers on Instagram and 4.6 rating onYelp,The Classic Cafeis a unique Fullerton gem for coffee and ambient study corners.
+    The vintage family-owned Korean cafe is located inside a remodeled historic house from the 1920s, creating a peaceful ambiance for customers looking to escape busy student life and commitments.
+    Second-year business student Genavieve Tung says she first sought out the place to find a cozy“third space”to study outside of campus and busy mainstream coffee shops.
+    “I think a lot of students have been wanting to find third spaces to study,” said Tung. “The way I think about Classic Cafe is that it’s not a cafe but more a comfortable place to be and hang out.”
+    For others, it offers an ideal getaway to grind and be productive.
+    “This is my all-time favorite cafe to co-work from Fullerton! There’s cozy seating, outlets for charging your devices, strong WiFi, wonderful staff, and amazing lattes,” said Sally T. onYelp.“Their A/C has also come in clutch throughout the heat waves these past few weeks.”
+    From whimsical fairytale decor, handcrafted Einspanner lattes and Korean-fusion paninis, The Classic Cafe’s Victorian charm and unique menu offer students a peaceful escape to wind down.
+
+  4. Habibi’s
+    Featuring matcha and lattes inspired by theLevantregion,Habibi’sis Fullerton’s newest Arabic food and drink cafe.
+    Opened in July 2025, the cafe blends Middle Eastern and American culture to create specialized menu options, including their orange blossom matcha, manaeesh (flatbread) and pistachio honey labneh (yogurt).
+    “I highly recommend trying the house latte, karak chai, or any of their refreshers,” said ASI President Haneefah Syed. “Their manaeesh flatbread is especially delicious and makes for a perfect lunch choice.”
+    With a 4.9 onYelp, many note the hospitable staff and accessible student space.
+    “For college students attending classes (specifically CSUF students), this is the perfect place to get a quick, filling meal in between classes, considering it is right across the university,” said Leah D. onYelp.“I also want to shout out the people who work there! Every interaction I’ve had, everyone has been so, so friendly and lovely, the service is exceptional.”
+    Habibi’s is a convenient and accessible choice for any student looking for a unique dining break from campus.
+
+  5. Vivot Craft Cafe
+    Calling all matcha lovers! According to students,Vivot Craft Cafeis Downtown Fullerton’s hit matcha spot for specialty grade matcha, artisan teas and viral matcha flights.
+    Derived from the Cambodian word meaning “to evolve,” Vivot’s mission is to inspire others to become the best versions of themselves through their community spaces.
+    “I recommend their strawberry matcha. I really like that they use strawberry syrup instead of strawberry milk,” said fourth-year public health major Masa Kassih. “Their matcha is also very authentic and their cream foam is really good too.”
+    The cafe’s matcha flights, unique cold foam creations and minimalist-interior draw in students all over the Fullerton area.
+    “I love that they’re open late. It’s honestly hard to find cute café spots in OC that don’t close super early, so Vivot automatically wins points for being the perfect late-night yap + dessert spot,” said Shallom L. onYelp.
+
+  6. MADE Coffee
+    Serving coffee communities across Fullerton, Yorba Linda and Costa Mesa,MADE Coffeeis considered a go-to spot for high-quality drinks. From slow bar special pour-overs to creamy cortados, the coffee shop offers reliable study spaces and quality drinks.
+    With Gen Z redefining thecoffee and tea scene, it’s no surprise that places like MADE Coffee have become favorites among CSUF students.
+    Fourth-year graphic design student Justin Baizas frequents the Fullerton location as a dedicated coffee lover.
+    “They have two signature drinks, their Spanish latte and their oat milk cereal latte,” said Baizas. “Their coffee is super creamy, and whatever milk and beans they’re using are so good too.”
+    Baizas says MADE Coffee is superior to other coffee shops in Downtown Fullerton due to its quiet ambience, multiple store locations and simple menu options and adjustments.
+    “I go to all the locations, the people there are dope; they definitely know what they’re doing,” said Baizas.
+
+  7. Roscoe’s Famous Deli – Fullerton
+    Study, coffee, nightlife- repeat! CSUF students enjoy their fair share of fun as well.
+    A top recommendation for nightlight to unwind after finals isRoscoe’s Famous Deliin the heart of the downtown strip.
+    An upbeat deli and sandwich restaurant by day and live music bar at night, Roscoe’s is known for its quality sandwiches, live music and vibrant ambiance.
+    For third-year business-marketing student Olivia Ireland, the deli is her go-to for a great sandwich and a lively night out with her friends.
+    “I think the culture there is really fun,” said Ireland. “You see so many students that go to CSUF, and it’s a great place to mingle because they also have live bands playing too.”
+    Yelp reviewers often praise Roscoe’s as a triple threat, delivering on food, entertainment and overall vibes.
+    “They offer delicious food (incredible sandwiches), great entertainment (games & live music) and aesthetics (super cute interior)!” said Andrea G. onYelp.“This place has it all, it’s whatever you want to make of your experience here!”
+
+  8. Bag of Cakes – Fullerton
+    Opened in September 2023,Bag of Cakesin Fullerton is a hit Korean patisserie and cake shop that offers sweet baked goods and specialty drinks.
+    Unlike traditional American bakeries, Bag of Cakes adds a Korean twist, making its desserts lighter, fluffier and less sweet, often featuring airy sponge cakes and fresh whipped cream.
+    Third-year criminal justice student Madison Adams likes going with friends to study and enjoys its iced caramel latte and egg salad sandwich.
+    “I’m definitely a regular there now because of their food,” said Adams. “It can get busy, but they’re open pretty early each day.”
+    The cake shop with a 4.3Yelprating is known for its clean, white and yellow interiors where customers can order premade baked goods, and even full-sized cakes for special occasions.
+    Other popular items include banana pudding matcha latte, strawberry maritozzi pastry and matcha and early grey cruffin.
+    “[Bag of Cakes] definitely has way more food options than other cafes in the area,” said Adams. “I think they have a good variety.”
+
+  9. Tacos Los Cholos – Fullerton
+    If there is one must-try taco spot for CSUF students in Fullerton, it’sTacos Los Cholos, a staple name even outside OC.
+    With over 284,000 followers onInstagramand 4.6 onYelp, the viral taco spot takes street tacos to the next level.
+    The spot gained popularity by elevating street tacos with high-quality steakhouse-level meats and grilling them over specialized mesquite wood for an extra spike of smoky flavor. From porkbelly, ribeye and filet mignon tacos, Los Cholos also has unique menu items like their Cholo pizza and papa lokas.
+    “It’s been a place where my friends and I have gone to bring a little bit of home to us,” said fourth-year cinema and television arts major Mercedes Avila. “I have always had a positive experience, and it’s made me feel more part of the community here at Fullerton.”
+    With Reggaeton, Bachata and classic Ranchera music lifting the space, students go for its approachable vibe and quality food.
+    “Their taco meat quality is really good,” said Avila. “If you’re looking for a sense of Hispanic culture here, then it’s definitely the place for you.”
+
+  10. El Fortin Restaurante
+    Last but certainly not least, CSUF students also have a recommendation for authentic Oaxacan cuisine.
+    Originally opened in 1999,El Fortin Restaurante’smission is to create a restaurant on the rich cultural flavors of their Oaxacan heritage.
+    Offering an extensive menu of authentic dishes including tasajo, cafe de la sierra de Oaxaca and much more, the restaurant operates on 100 percent imported goods from Oaxaca and a made-to-order service to preserve freshness and authenticity.
+    Fourth year communications-journalism student Jenny Guzman and her family have been going to the restaurant for years because of its mission to preserve cultural authenticity.
+    “It’s honestly my favorite place to go because it has my comfort food,” said Guzman.
+    Her favorite thing to order is their tlayudas, an Oaxacan-style street food that many refer to as a “Mexican pizza.”
+    “My family and I have been going for years, and it’s my number one stop when I am craving a little taste of home,” said Guzman.
+
+  Honorable Mentions
+    - Jaxson’s Chix Tenders
+
+============================================================
+
+LINK 5: https://www.ocregister.com/2015/04/15/10-great-places-to-eat-on-and-off-the-cal-state-fullerton-campus/
+Domain : www.ocregister.com
+------------------------------------------------------------
+ARTICLE: 10 great places to eat on and off the Cal State Fullerton campus
+
+  Chipotle
+  Type of food: Mexican grill
+  Popular items: Quesarito — an off the menu item that is essentially a quesadilla wrapped burrito — and chicken burritos
+  501 N. State College Blvd.; 714-525-2121; chipotle.com
+
+  Gastronome
+  Popular item: Made-to-order omelet; the Gastronome makes about 400 omelets each day
+  800 N. State College Blvd.; 657-278-1661; csuf.campusdish.com
+
+  Habit Burger
+  Type of food: Fast casual
+  Popular item: Santa Barbara-style Charburger, an off-menu item featuring mayonnaise, lettuce, tomatoes, grilled onions and avocados on grilled sourdough bread
+  2720 Nutwood Ave.; 714-871-9116; habitburger.com
+
+  Panera
+  Popular items: Frontega Chicken Panini and Roasted Turkey & Avocado BLT
+  2415 E. Chapman Ave.; 714-526-1777; panerabread.com
+
+  Pick Up Stix
+  Type of food: Asian fusion
+  Popular items: House Special Chicken and cream cheese wontons
+  501 N. State College Blvd.; 714-447-8095; pickupstix.com
+
+  Pieology
+  Type of food: Fast casual pizzeria
+  Popular items: Hickory BBQ Chicken and Smokin’ Buffalo Chicken pizzas
+  516 N. State College Blvd.; 714-447-4064; pieology.com
+
+  Which Wich
+  Type of food: Fast casual — sandwiches
+  Popular item: Pesto, bacon and avocado sandwich with choice of meat
+  2720 Nutwood Ave.; 714-869-3820; whichwich.com
+
+  Barcelona on the Go 
+  Type of food: Latin bistro
+  Popular item: USDA Prime Top Sirloin and Fries with Chimichurri
+  Food truck; 949-939-6798; barcelonaonthego.com
+  For the past three years, Barcelona on the Go has religiously visited the CSUF campus during lunch hours.
+  The Spanish mobile kitchen provides a flavor to the CSUF community that isn’t offered anywhere else on or near campus.
+  Its most popular item, USDA prime top sirloin and fries with chimichurri, is a grilled to order, sliced hand-cut prime sirloin steak served over fries and topped with fresh chimichurri sauce.
+  Described as “meat and potatoes with a fresh twist,” by Barcelona on the Go chef Jennifer Nocito, the meal was designed to be a well-balanced dish, she said.
+  Brothers Esteban and Santiago Nocito – from Argentina – manage the Barcelona on the Go gourmet food truck along with Esteban’s wife Jennifer Nocito.
+  Curiosity to a new type of food attracts indecisive lunch goers on campus, Jennifer Nocito said.
+  They have also found that keeping their menu consistent has been key to retaining popularity and loyalty among CSUF customers.
+  Barcelona on the Go is on campus Monday through Thursday from 11 a.m. to 3 p.m. in the Humanities Plaza, near the on-campus Carl’s Jr.
+
+
+  Brian’s Beer & Billiards
+  Type of food: American
+  Popular items: BBQ ribs, burgers and pickled eggs
+  1944 N. Placentia Ave.; 714-993-1401; briansbeer.com
+  When you walk into Brian’s Beer & Billards, don’t take a seat right away. Instead, take a tour of the place.
+  Every inch of space on each wall is plastered with sports memorabilia — the majority belonging to notable CSUF Titans.
+  Serving as a celebration spot for a number of CSUF sporting feats, Brian’s Beer & Billiards was established in 1981.
+  A few years later, the bar expanded to include neighboring Big B’s Barbecue.
+  “In 1981 it was the right bar, in the right place, at the right time,” said Brian Fairley, owner of Brian’s Beer & Billards and Big B’s Barbecue. “In 2015, it’s still the right bar, in the right place, at the right time.”
+  Visit Brian’s on Tuesdays from 5 p.m. to closing for an in bar-special of 50 percent off BBQ dinners. Customers must be over 21 to enter the bar area.
+
+
+  Pepe’s Finest Mexican Food
+  Type of food: Mexican
+  Popular item: Breakfast burrito
+  821 N. Placentia Ave.; 714-528-9291; pepesmexicanfood.com
+  Undoubtedly favored for its monstrous breakfast burritos, Pepe’s Finest Mexican Restaurant is on the top of CUSF student and faculty minds when it comes to breakfast.
+  Scrambled eggs, potatoes, cheese, beans, bacon, sausage, ham and chopped salsa are rolled in a giant tortilla to form Pepe’s breakfast burrito.
+  Manager Fred Russi isn’t quite sure how much the breakfast burrito weighs – but it definitely requires two hands to lift.
+  The eatery offers an inside and outdoor seating area, as well as a drive-thru.
+  Besides the location, Russi believes the familiarity of the Pepe’s brand and good, quality food is what attracts students to the eatery.
+  “A lot of the times students are in a rush and this is quick, cost effective and high quality,” he said.
+  Thankfully, breakfast at Pepe’s isn’t served just in the morning – its infamous breakfast burritos and other Mexican favorites are available all day.
+
+============================================================
+
+LINK 6: https://www.grubhub.com/delivery/ca-fullerton/california_state_university_fullerton
+Domain : www.grubhub.com
+------------------------------------------------------------
+GRUBHUB DELIVERY LISTINGS
+
+  (Grubhub requires JavaScript to render listings — static scraping unavailable.)
+
+============================================================
+
+LINK 7: https://dailytitan.com/news/campus/new-food-businesses-near-csuf-welcome-students/article_efb33e88-1042-11ec-9694-637f953bef4a.html
+Domain : dailytitan.com
+------------------------------------------------------------
+ARTICLE: New food businesses near CSUF welcome students
+
+  Byline Search
+
+  Sunny. High 77F. Winds SSW at 10 to 15 mph..
+  Partly cloudy early followed by cloudy skies overnight. Low around 60F. Winds SSW at 5 to 10 mph.
+  Updated: June 7, 2026 @ 12:26 pm
+  Cal State Fullerton students Dayanna Mata (left) and Jennifer Lopez (right) study after class at Qargo Coffee in Fullerton, CA. (Kassandra Vasquez / Daily Titan)
+  New businesses Qargo Coffee, Bundoo Khan and Brooklynz Pizza now grace the landscape of a food hub at the corner of Nutwood Avenue and Langsdorf Drive.
+  The transition to virtual classes and vacancy of Cal State Fullerton during the COVID-19 pandemic left businesses near campus struggling. Pizza Press, The Coffee Bean & Tea Leaf, and Cafe Rio — all formerly in the food plaza — closed their doors during the pandemic.
+  With in-person classes back in session, replacements have arrived.
+  Qargo Coffee opened on July 30 and co-owner Abdulahad Telwar said the shop offers an immersive Italian concept, including the coffee made with Italian-style beans, pastries and uniforms.
+  Just over one month after opening, Telwar said business is going well. He added that there was a 25-30% increase in sales from week to week since the start of the semester, and that 80% of the business relies on the students from local universities.
+  “I feel like what we bring is definitely the space and the environment. I know students require that when it comes to studying or meeting or brainstorming,” Telwar said.
+  During the design process, Telwar said that they added seating pods throughout the coffee shop to give students personal space for groups and open seating to cater to different circumstances.
+  “We wanted to drive this business and cater it more towards students and the students’ demands. We wanted to give good internet; we wanted to give good service, affordable pricing and plenty of space,” Telwar said.
+  Telwar added that the business is looking into increasing their hours around exam time and having customer appreciation events for the Fullerton community.
+  Lesslie Callejas, a first-year psychology major, frequents the establishment to study after classes. Callejas said she likes the good vibes of the coffee shop and spacious layout.
+  She added that so far she has already visited the coffee shop three or four times in just a week’s time, favoring the convenience of the location and proximity to her humanities classes.
+  “The humanities building is right here. I can quickly come over here, get my coffee and go,” Callejas said. She said she hopes Qargo Coffee is there for all of her years at CSUF.
+  Dayanna Mata, a second-year student, and friend Jennifer Lopez, a first-year student, both visit Qargo Coffee to do homework after class.
+  “We prefer to come over here because you don’t have to wait in a big line,” Lopez said.
+  She added that she likes the coffee and the amount of space the coffee shop offers. Mata and Lopez said they currently visit Qargo Coffee at least twice a week.
+  “​​After we're done with a class we come here, we do homework, we get coffee, do our thing and then drive back home,” Mata said.
+  Just two doors down from Qargo Coffee is Bundoo Khan, which offers its customers authentic Pakistani food. Abdullah Jafrey, owner of the family-run business, said the food is made with homeground spices for the barbeque concept.
+  Bundoo Khan is a popular franchise in Pakistan, but the Fullerton location is the first one in the United States.
+  “I think the community welcomed us really well and we’re just looking to expand,” Jafrey said. “We’ve had a lot of newcomers try the food, a lot of students come to try it, and the feedback we’ve been getting is so far so good.”
+  Jafrey said that they enjoy having students come over to the business.
+  He said his family picked this specific location because of the proximity to the CSUF campus and the easy access from nearby freeways. Jafrey added that his father is a CSUF alumnus and lived near campus while he attended.
+  “This brings back so many memories for him from not only college, but then bringing the brand that he used to eat back home and fusing that with his first experience in America when he landed here,” Jafrey said.
+  Brooklynz Pizza is the last of the three businesses to open with no official opening date announced to the public.
+  Sorry, there are no recent results for popular images.
+  Sorry, there are no recent results for popular videos.
+  Sorry, there are no recent results for popular commented articles.
+  Your browser is out of date and potentially vulnerable to security risks.We recommend switching to one of the following browsers:
+
+============================================================
+
+LINK 8: https://www.yelp.com/biz/the-gastronome-fullerton
+Domain : www.yelp.com
+------------------------------------------------------------
+  ERROR: HTTP error: 403 Client Error: Forbidden for url: https://www.yelp.com/biz/the-gastronome-fullerton
+
+============================================================
+
+LINK 9: https://dineoncampus.com/CSUF/the-titan-dining-hall
+Domain : dineoncampus.com
+------------------------------------------------------------
+  ERROR: HTTP error: 403 Client Error: Forbidden for url: https://dineoncampus.com/CSUF/the-titan-dining-hall
+
+============================================================
+
+LINK 10: https://www.fullerton.edu/Housing/current-students/payment-information.html
+Domain : www.fullerton.edu
+------------------------------------------------------------
+5 Day       $4,603 	$2,301.50 	$767.17
+7 Day   	  $5,194 	$2,597 	    $865.67
+100 Block  	$2,345 	$1,172.50 	$390.83
+
+
+
+============================================================
+
