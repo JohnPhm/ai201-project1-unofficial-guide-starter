@@ -149,14 +149,14 @@ The embedding model used for this is all-MiniLM-L6-v2. This model was recommende
      chunk_text(). It returned a function using a fixed character split. I overrode the
      chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
 
-**Instance 1**
+**Instance 1** - 
 Implementing the chunking strategy
-- *What I gave the AI:*
+- *What I gave the AI:* I gave the AI the guidelines of what I wanted my chunking strategy to be and I told it to provide me an outline of chunking strategy and how to implement it. Furthermore, I asked it to implement the chunking strategy and I inspected its output, revising it until it achieved what I planned in planning.md. 
 - *What it produced:*
 - *What I changed or overrode:*
 
-**Instance 2**
-
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+**Instance 2** - 
+Creating a plan on how to scrape information from the sources
+- *What I gave the AI:* I provided a text document of all the sources I intend to use for this project and I asked the AI what are the different possible ways to scrape information from the sources. 
+- *What it produced:* It returned two different methods on scraping information. The first method it advised me to do would be manually parsing the sources, copying and pasting the information onto a text document. The second method that it provided me was a simple web scraper that uses requests and BeautifulSoup to scrape information. It also provided me the benefits and shortcomings of each method. 
+- *What I changed or overrode:* The first iteration of the webscraper the AI implemented was missing a way to notify me if each source was preventing me from scraping data. I changed the logic so that the scraper provides an exception message so that I can understand which website was successful with scraping. 
