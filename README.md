@@ -8,7 +8,7 @@
 ---
 
 ## Domain
-
+The domain that my system covers would be the food choices around California State University, Fullerton. This knowledge is valuable as it provides students a quick way to easily view food choices around CSUF without the need to sift through various sources online. 
 <!-- What topic or category of knowledge does your system cover?
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
@@ -38,7 +38,7 @@
 ---
 
 ## Chunking Strategy
-
+Looking at the sources, the majority of these sources include short reviews of each food spot. These reviews include the type of cuisine, the location, and a short description of what the place has to offer. Because of this, the most suitable chunking strategy would be fixed since each of the reviews are relatively the same size in terms of length. 
 <!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
      Include:
      - Chunk size (characters or tokens) and why that size fits your documents
@@ -47,17 +47,17 @@
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
-
+Since we are using fixed size chunking, the chunk size would be around 512 tokens or roughly 350-400 words. This allows enough context to be included within each chunk but also prevents unneccessary and unrelated details to be included with each chunk.
 **Overlap:**
-
+The overlap found would be around 50-75 characters. This allows each chunk to have a decent amount of extra characters to capture enough context before being cut off. 
 **Why these choices fit your documents:**
-
+I believe these choices fit my documents as my documents are not incredibly dense in information. This means that each chunk could be cut a little short and the meaning of the chunk will remain the same. 
 **Final chunk count:**
-
+The final chunk total is 13. This number is a little low because of my web scraper not being able to scrape dynamic content found on certain websites. 
 ---
 
 ## Embedding Model
-
+The embedding model used for this is all-MiniLM-L6-v2. This was chosen of its fast lightweight nature. If this were to be deployed to real users and cost wasn't a constraint, then a different model such as OpenAI text-embedding-3-large could be used as it is considered to be the best overall general-purpose model being able to perform all sorts of tasks while being cost efficient.
 <!-- Name the embedding model you used and explain your choice.
      Then answer: if you were deploying this system for real users and cost wasn't a constraint,
      what tradeoffs would you weigh in choosing a different model?
@@ -65,7 +65,7 @@
      latency, and local vs. API-hosted. -->
 
 **Model used:**
-
+The embedding model used for this is all-MiniLM-L6-v2. This model was recommended by CodePath as it is very cost efficient for the amount of performance it provides. 
 **Production tradeoff reflection:**
 
 ---
@@ -150,7 +150,7 @@
      chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
 
 **Instance 1**
-
+Implementing the chunking strategy
 - *What I gave the AI:*
 - *What it produced:*
 - *What I changed or overrode:*
